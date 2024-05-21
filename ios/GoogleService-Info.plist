@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>367763978556-1bieh2h4kvp6ggvng722q56ougij5m16.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.367763978556-1bieh2h4kvp6ggvng722q56ougij5m16</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>367763978556-9uuqe2p6ae7ugagq6ka9srdveg0j2r66.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKlj5b0mHao8OEGdO1JtD8vMJRhJPoF-s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>367763978556</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.GafgazHomes</string>
+	<key>PROJECT_ID</key>
+	<string>gafgazhomes</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gafgazhomes.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:367763978556:ios:aa533baefbb31ecdb3c639</string>
+</dict>
+</plist>
